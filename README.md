@@ -1,4 +1,4 @@
-# Lithium-ion-battery-charger
+# Lithium-ion battery charger
 
 ## Šta je litijum-jonska baterija?
 
