@@ -50,3 +50,6 @@ Radi komotnosti i s pretpostavkom da korisnik koji bude koristio uređaj nema pr
 kojim može da utvrdi da se baterija napunila do kraja projektovan je deo kola koji će korisniku
 jasno da da do znanja da li je baterija puna ili se i dalje puni. To je ostvareno pomoću svetleće
 diode koja svetli ukoliko se baterija puni a zatim prestane da svetli kad se baterija napuni.
+
+## Credits
+Igor Krstić
